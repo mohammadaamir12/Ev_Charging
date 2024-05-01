@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Fuzzy Bubbles.ttf",
+      "sha1": "61be2e9e6954191b78155577952adf894c19f8e7"
+    },
+    {
+      "path": "src/assets/fonts/Jacquard 24.ttf",
+      "sha1": "45551556b8476e9f941be64825d49357f84116bd"
+    },
+    {
+      "path": "src/assets/fonts/Noto Sans KR Thin.ttf",
+      "sha1": "da8ef76ac01bec36758996a4a35ce4ff32fd119c"
+    },
+    {
+      "path": "src/assets/fonts/Outfit Thin.ttf",
+      "sha1": "0b864532623abe9e381ab191b4eb66021db9829d"
+    },
+    {
+      "path": "src/assets/fonts/Prompt Medium.ttf",
+      "sha1": "ed15bfac8ac1e25dfbaef4c3e7dc6178b3347379"
+    },
+    {
+      "path": "src/assets/fonts/Sedgwick Ave Display.ttf",
+      "sha1": "38b59f4c8f422f1b136351d822e3462ebc1726e2"
+    },
+    {
+      "path": "src/assets/fonts/Sevillana.ttf",
+      "sha1": "3403153ab25c39d6d050b87b2e55f580d384afe8"
+    }
+  ]
+}
